@@ -21,6 +21,5 @@ public class Main {
         calc.println.accept(f);
 
         System.out.println(calc.isPositive.test(e));
-
     }
 }
